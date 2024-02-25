@@ -1,0 +1,12 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Task Management System{% endblock %}
+
+{% block body %}
+    <h1>Task Management System</h1>
+    <p>Welcome to our task management system. Please use the links below to navigate.</p>
+    <ul>
+        <li><a href="{{ path('app_login') }}">Login</a></li>
+        <li><a href="{{ path('app_register') }}">Register</a></li>
+    </ul>
+{% endblock %}
