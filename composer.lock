@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "01d2fadbe1924bf358c5f7b87bb43989",
+    "content-hash": "dd6ee87d40bb16b3001bd57ba7ac0c69",
     "packages": [
         {
             "name": "composer/semver",
@@ -7221,7 +7221,7 @@
             ],
             "time": "2024-01-23T15:02:46+00:00"
         },
-        {
+                {
             "name": "twig/extra-bundle",
             "version": "v3.8.0",
             "source": {
